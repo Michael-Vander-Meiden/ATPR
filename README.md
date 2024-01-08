@@ -8,3 +8,6 @@ The Spheres represent the individual players in the OP Collective. The OP Collec
 The red ring represents the Phoenix. At this start, it is not even visible in the NFT, but over the days as we have a larger and larger daily contribution to the collective, the dream of Ether's Phoenix becomes more real, and so does its representation in the NFT.
 
 Once the OP Collective is generating more than 42,000 ETH / year, spheres are perfectly aligned around the Phoenix, which has reached its final form. 
+
+Minted NFT: https://opensea.io/assets/optimism/0x662966c073294c2aa3e1935f2dd09abefd64ee67/1
+Data source: https://dune.com/oplabspbc/op-stack-chains-l1-activity
