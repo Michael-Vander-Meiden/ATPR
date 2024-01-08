@@ -1,6 +1,16 @@
 # ATPR
 As the Phoenix Rises - Generative Art Project
 
+0 ETH/year contribution
+![](https://github.com/Michael-Vander-Meiden/ATPR/blob/main/zero_gif_small.gif)
+
+21000 ETH/year contribution
+![](https://github.com/Michael-Vander-Meiden/ATPR/blob/main/halfway_gif_small.gif)
+
+42000 ETH/year Contribution
+![](https://github.com/Michael-Vander-Meiden/ATPR/blob/main/final_gif_small.gif)
+
+
 As The Phoenix Rises (ATPR) uses real-time data to represent the rise of the OP Collective Phoenix through a generative & dynamic NFT. Every single day, the NFT updates using the overall contribution by chains in the superchain (Optimism, Base, Zora, Etc...) to the OP Collective, measured in ETH. As this number grows closer to 42,000 ETH / year, the Spheres become more and more in sync, and the red outline of the Phoenix becomes more visible. 
 
 The Spheres represent the individual players in the OP Collective. The OP Collective is an experiment in human incentives and coordination. At the start of this real-world journey, the spheres are chaotic. They are moving at different speeds and different orbits. As the daily Collective Contribution rises, these spheres become more and more coordinated, the orbits move towards the same speed and path.
